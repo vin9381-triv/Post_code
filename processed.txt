@@ -1,0 +1,2 @@
+{"collection": "Poverty", "keywords": ["Poverty", "Deprivation", "Financial Hardship"]}
+{"collection": "Unemployment", "keywords": ["Job Loss", "Economic Downturn", "Workforce"]}
